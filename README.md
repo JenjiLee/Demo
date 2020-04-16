@@ -22,8 +22,6 @@
     - 运维部署
   - 多人社区
 
-![image-20200317114503403](C:\Users\A\AppData\Roaming\Typora\typora-user-images\image-20200317114503403.png)
-
 ## Node.js是什么
 
 - Node.js是JavaScript 运行时
